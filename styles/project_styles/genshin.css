@@ -46,24 +46,4 @@
     font-size: 1.8rem;
     letter-spacing: -.05rem;
 }
-.image-div {
-    width: 80%; 
-    max-height: 80%; 
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border: 2px solid #ccc; 
-    position: relative;
-    overflow: hidden; 
-    margin-left: 10%;
-}
 
-.cover-image {
-    max-width: 100%; 
-    max-height: 100%; 
-    width: auto;
-    height: auto; 
-    object-fit: contain; 
-    margin-left: auto; 
-    display: block; 
-}
